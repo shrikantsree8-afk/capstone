@@ -3,6 +3,16 @@
 ## Generated artifacts
 
 - Visualizations/report.md
+- Visualizations/Plots/confusion_matrix_xgb.png
+- Visualizations/Plots/confusion_matrix_brf.png
+- Visualizations/Plots/missing_values_heatmap.png
+- Visualizations/Plots/confusion_matrix_tab.png
+- Visualizations/Plots/confusion_matrix_nn.png
+- Visualizations/Plots/roc_pr_comparison.png
+- Visualizations/Plots/target_distribution.png
+- Visualizations/Plots/confusion_matrix_eec.png
+- Visualizations/Plots/confusion_matrix_lr.png
+- Visualizations/Plots/numeric_distributions.png
 - Visualizations/Results/model_comparison_metrics.csv
 - Visualizations/Results/easy_ensemble_predictions_confidence.csv
 - Visualizations/Results/xgb_predictions_confidence.csv
